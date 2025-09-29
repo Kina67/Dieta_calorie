@@ -1,0 +1,7 @@
+{
+  "name": "Analizzatore di Cibo AI",
+  "description": "Un'applicazione che utilizza l'IA per analizzare il cibo da un'immagine, fornendo nome del piatto, ingredienti, quantità stimata e contenuto calorico. Usa la fotocamera o carica un'immagine per iniziare.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
